@@ -29,4 +29,6 @@ Java code for Leetcode
 617  Merge Two Binary Trees                                           Easy<br>
 623  Add One Row to Tree                                              Medium<br>
 648  Replace Words                                                    Medium<br>
+690  Employee Importance                                              Easy<br>
+728  Self Dividing Numbers                                            Easy<br>
 
