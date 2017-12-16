@@ -17,6 +17,7 @@ Java code for Leetcode
 447  Number of Boomerangs                                             Easy<br>
 451  Sort Characters By Frequency                                     Medium<br>
 462  Minimum Moves to Equal Array Elements II                         Medium<br>
+482  License Key Formatting                                           Easy<br>
 495  Teemo Attacking                                                  Medium<br>
 501  Find Mode in Binary Search Tree                                  Easy<br>
 508  Most Frequent Subtree Sum                                        Easy<br>
@@ -29,6 +30,8 @@ Java code for Leetcode
 617  Merge Two Binary Trees                                           Easy<br>
 623  Add One Row to Tree                                              Medium<br>
 648  Replace Words                                                    Medium<br>
+686  Repeated String Match                                            Easy<br>
 690  Employee Importance                                              Easy<br>
 728  Self Dividing Numbers                                            Easy<br>
+734  Sentence Similarity                                              Easy<br>
 
