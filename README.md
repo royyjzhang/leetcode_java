@@ -34,4 +34,5 @@ Java code for Leetcode
 690  Employee Importance                                              Easy<br>
 728  Self Dividing Numbers                                            Easy<br>
 734  Sentence Similarity                                              Easy<br>
+760  Find Anagram Mappings                                            Easy<br>
 
