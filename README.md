@@ -30,9 +30,11 @@ Java code for Leetcode
 617  Merge Two Binary Trees                                           Easy<br>
 623  Add One Row to Tree                                              Medium<br>
 648  Replace Words                                                    Medium<br>
+654  Maximum Binary Tree                                              Medium<br>
 686  Repeated String Match                                            Easy<br>
 690  Employee Importance                                              Easy<br>
 728  Self Dividing Numbers                                            Easy<br>
 734  Sentence Similarity                                              Easy<br>
 760  Find Anagram Mappings                                            Easy<br>
+771  Jewels and Stones                                                Easy<br>
 
