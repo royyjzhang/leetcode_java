@@ -37,4 +37,6 @@ Java code for Leetcode
 734  Sentence Similarity                                              Easy<br>
 760  Find Anagram Mappings                                            Easy<br>
 771  Jewels and Stones                                                Easy<br>
+804  Unique Morse Code Words                                          Easy<br>
+807  Max Increase to Keep City Skyline                                Medium<br>
 
