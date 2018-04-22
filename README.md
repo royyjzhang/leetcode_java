@@ -39,4 +39,5 @@ Java code for Leetcode
 771  Jewels and Stones                                                Easy<br>
 804  Unique Morse Code Words                                          Easy<br>
 807  Max Increase to Keep City Skyline                                Medium<br>
+821  Shortest Distance to a Character                                 Easy<br>
 
