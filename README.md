@@ -42,4 +42,5 @@ Java code for Leetcode
 821  Shortest Distance to a Character                                 Easy<br>
 821  Making a Large Island                                                Hard<br>
 929  Unique Email Addresses                                           Easy<br>
+934  Shortest Bridge                                                      Medium<br>
 938  Range Sum of BST                                                 Medium<br>
