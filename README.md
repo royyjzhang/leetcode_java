@@ -40,5 +40,6 @@ Java code for Leetcode
 804  Unique Morse Code Words                                          Easy<br>
 807  Max Increase to Keep City Skyline                                Medium<br>
 821  Shortest Distance to a Character                                 Easy<br>
+821  Making a Large Island                                                Hard<br>
 929  Unique Email Addresses                                           Easy<br>
 938  Range Sum of BST                                                 Medium<br>
